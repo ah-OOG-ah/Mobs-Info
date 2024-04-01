@@ -45,6 +45,8 @@ import com.kuba6000.mobsinfo.api.MobOverride;
 import com.kuba6000.mobsinfo.api.event.PostMobsOverridesLoadEvent;
 import com.kuba6000.mobsinfo.api.utils.GSONUtils;
 
+import static com.kuba6000.mobsinfo.MobsInfo.MODID;
+
 public class OverridesConfig {
 
     private static final Logger LOG = LogManager.getLogger(MODID + "[Config-Overrides]");

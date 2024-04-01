@@ -32,6 +32,8 @@ import com.kuba6000.mobsinfo.config.Config;
 import codechicken.nei.api.API;
 import codechicken.nei.api.IConfigureNEI;
 
+import static com.kuba6000.mobsinfo.MobsInfo.MODNAME;
+
 public class NEI_Config implements IConfigureNEI {
 
     public static boolean isAdded = true;

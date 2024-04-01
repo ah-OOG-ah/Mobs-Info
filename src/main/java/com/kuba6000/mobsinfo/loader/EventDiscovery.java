@@ -10,6 +10,8 @@ import org.apache.logging.log4j.Logger;
 
 import cpw.mods.fml.common.eventhandler.IEventListener;
 
+import static com.kuba6000.mobsinfo.MobsInfo.MODID;
+
 public class EventDiscovery {
 
     private static final Logger LOG = LogManager.getLogger(MODID + "[Event Discovery]");

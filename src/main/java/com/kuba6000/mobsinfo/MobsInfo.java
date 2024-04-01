@@ -43,6 +43,9 @@ import cpw.mods.fml.common.event.FMLServerStoppingEvent;
 import cpw.mods.fml.common.network.simpleimpl.SimpleNetworkWrapper;
 import cpw.mods.fml.relauncher.Side;
 
+import static com.kuba6000.mobsinfo.MobsInfo.MODID;
+import static com.kuba6000.mobsinfo.MobsInfo.MODNAME;
+
 @SuppressWarnings("unused")
 @Mod(
     modid = MODID,
